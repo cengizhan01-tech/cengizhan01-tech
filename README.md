@@ -1,6 +1,6 @@
 # Merhaba, ben Cengiz Han 👋
 
-Yeni fikirleri deniyor, işe yarar bulduğum projeleri burada paylaşıyorum. Uygulamalar, küçük araçlar ve yapay zekâ becerileri üzerinde çalışıyorum. Paylaştığım projeler, yeni fikirlerle birlikte gelişiyor.
+Yeni fikirler deniyorum ve işe yarar bulduğum projeleri burada paylaşıyorum. Uygulamalar, küçük araçlar ve yapay zekâ becerileri üzerinde çalışıyorum. Paylaştığım projeler, yeni fikirlerle birlikte gelişiyor.
 
 ## Projeler
 
