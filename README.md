@@ -4,8 +4,8 @@ Yeni fikirler deniyorum ve işe yarar bulduğum projeleri burada paylaşıyorum.
 
 ## Projeler
 
-- **[Almanya için Türkçe yapay zekâ becerileri](https://github.com/cengizhan01-tech/almanya-turkce-ai-beceriler):** Almanya'da Türkçe konuşanlar için hazırladığım beceriler.
-- **[Hermes telefon widget'ları](https://github.com/cengizhan01-tech/hermes-telefon-widgetleri):** Kendi hizmetlerinizin durumunu Android telefonunuzda gösteren widget'lar.
+- **[Almanya için Türkçe yapay zekâ becerileri](https://github.com/cengizhan01-tech/almanya-turkce-ai-beceriler):** Almanya'da Türkçe konuşanlar için hazırladığım beceriler. [Kısa örneği gör](https://github.com/cengizhan01-tech/almanya-turkce-ai-beceriler#1-dakikada-dene).
+- **[Hermes telefon widget'ları](https://github.com/cengizhan01-tech/hermes-telefon-widgetleri):** Kendi hizmetlerinizin durumunu Android telefonunuzda gösteren widget'lar. [Önizlemeyi gör](https://github.com/cengizhan01-tech/hermes-telefon-widgetleri/blob/main/docs/images/kota-widgetleri-gizlenmis.png) · [Son sürümü aç](https://github.com/cengizhan01-tech/hermes-telefon-widgetleri/releases/latest).
 
 ## Geri bildirim
 
